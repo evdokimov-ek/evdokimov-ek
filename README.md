@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Evgeniy Evdokimov
-- 👀 I’m interested in iOS developing and creating new apps.
-- 🌱 I’ve completed Udemy course "iOS & Swift - The Complete iOS App Development Bootcamp" 
-- I'm working now in Sberbank as Data Scientist (Python), but I want to become a Swift Developer
-- 💞️ I’m looking for a job "iOS Developer"
+- 👀 I’m interested in Data Science and ML
+- 🌱 I’ve completed Yandex.Praktikun course "Data Scientist" 
+- I'm working now in Sberbank as Data Scientist (Python)
+- 💞️ I’m looking for a job "Data Scientist"
 - 📫 How to reach me:
         telegram: @Evgeniy8081
 
